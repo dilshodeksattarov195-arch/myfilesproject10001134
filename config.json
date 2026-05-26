@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsync",
+        "uuid": 3694572,
+        "checksum": "xzdv6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
